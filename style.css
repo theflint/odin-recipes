@@ -1,5 +1,5 @@
 *{
-    margin: 10px;
+    margin: 10px 20px;
 }
 
 h1{
@@ -7,15 +7,21 @@ h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', "Geneva", Verdana, sans-serif;
     font-style: oblique;
     background-color: darkgreen;
+    padding-left: 20px;
+    padding-top: 10px;
+    height: 55px;
+    margin-right: 260px;
 }
 
 img{
     height: auto;
-    width: 450px;
+    width: 520px;
+    padding-left: 50px;
 }
 
 a{
     text-decoration: none;
+    color: orangered;
 }
 
 h2{
